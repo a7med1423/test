@@ -1,0 +1,16 @@
+div{
+    border: 5px black solid;
+    border-radius: 500px;
+    margin-bottom: 30px;
+
+    width: 100px; height: 100px;
+}
+
+
+.aquadiv{
+    background-color: aqua;
+}
+
+.reddiv{
+    background-color: red;
+}
